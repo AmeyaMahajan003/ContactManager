@@ -1,0 +1,17 @@
+{
+  "name": "contact_manager",
+  "version": "1.0.0",
+  "description": "This is Server side program for contact manager",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "Ameya Mahajan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.2"
+  }
+}

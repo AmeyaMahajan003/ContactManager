@@ -1,0 +1,23 @@
+Planning for this project:
+
+1. Express Project Setup:-
+        In this step we create an folder structure for our code and installed some packages like express and nodemon for further development.
+2. Create Express Server
+        In this step we create a basic express server which will run on desire port mentioned in .env file
+3. Thunder Client Setup
+        
+4. Express Router Setup
+5. Error Handling Using Async Handler
+6. Express Middleware
+7. MongoDB Setup
+8. Mongoose Schema
+9. CRUD API
+10. User Authentication
+11. Registartion And login API
+12. Controller and DB operation
+13.Password hashing and comparing
+14. Sign/verify jwt token
+15. Handle relationships
+16.Protected routes 
+17.User authorization
+18.api testing
