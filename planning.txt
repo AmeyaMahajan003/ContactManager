@@ -5,8 +5,9 @@ Planning for this project:
 2. Create Express Server
         In this step we create a basic express server which will run on desire port mentioned in .env file
 3. Thunder Client Setup
-        
+        On this step we check the thunderclient application to send the request to the server. Also we created a single router for testing purpose
 4. Express Router Setup
+        We created all the routeres required for our project using REST API methods in routes folder
 5. Error Handling Using Async Handler
 6. Express Middleware
 7. MongoDB Setup
