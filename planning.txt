@@ -9,7 +9,9 @@ Planning for this project:
 4. Express Router Setup
         We created all the routeres required for our project using REST API methods in routes folder
 5. Error Handling Using Async Handler
+        Using try catch block before every controller we prefer to use asyncHandller() method to provide easy way for error handling.
 6. Express Middleware
+        In this step we created a no. of middlewares methods to provide easy functioning. We use the body parser method '.json()' provided by express framework which parses the request body into json object. All the middleware methods were used when each request arised.
 7. MongoDB Setup
 8. Mongoose Schema
 9. CRUD API
