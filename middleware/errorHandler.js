@@ -32,6 +32,15 @@ const errorHandler = (err, req, res, next) => {
         stackTrace: err.stack,
       });
       break;
+
+    case 500:
+      res.json({
+        title: "Server Error",
+        message: err.message,
+        stackTrace: err.stack,
+      });
+      break;
+      
       default:
         console.log("NO ERROR");
           break;
